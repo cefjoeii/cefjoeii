@@ -35,4 +35,4 @@ Leveraging modern development tools such as Claude Code, GitHub Copilot, and Cod
 - UI/UX Prototyping
 - Vector Graphics/Adobe/Affinity
 
-![](https://komarev.com/ghpvc/?username=cefjoeii&color=256091&&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=cefjoeii&color=296faa&&label=Profile+Views)
