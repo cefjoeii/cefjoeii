@@ -1,6 +1,5 @@
-## Hi there 👋
+<!--## Hi there 👋
 
-<!--
 **cefjoeii/cefjoeii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Banner](banner.png)
+
+Senior Software Engineer with 9+ years of experience collaborating with international clients across the tech industry. Worked effectively and seamlessly with developers and stakeholders from the USA, Norway, Russia, Ukraine, Romania, Australia, Hong Kong, India, and the Philippines.
+
+Dedicated to crafting reliable native iOS apps in Swift and SwiftUI with a clean, strategic, and organized structure. Passionate about delivering high-quality, top-tier software systems with a sharp focus on intuitive UI design and smooth user experiences (UX).
+
+Leveraging modern development tools such as Claude Code, GitHub Copilot, and Codex with Agentic AI to improve development efficiency and productivity.
+
+#### Primary Skill Set
+- Swift/SwiftUI/iOS
+
+#### Recent Explorations
+- AI/Claude Code/GitHub Copilot/Codex
+
+#### Occasional Explorations
+- Node.js/Express.js/Nest.js
+- HTML/CSS/JavaScript/React.js
+- Kotlin/Android
+- UI/UX Prototyping
+- Vector Graphics/Adobe/Affinity
+
+![](https://komarev.com/ghpvc/?username=cefjoeii&color=256091&&label=Profile+Views)
