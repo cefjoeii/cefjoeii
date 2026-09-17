@@ -16,15 +16,18 @@ Here are some ideas to get you started:
 
 ![Banner](banner.png)
 
+![](https://komarev.com/ghpvc/?username=cefjoeii&color=296faa&&label=Profile+Views)
+
 Senior Software Engineer with 9+ years of experience collaborating with international clients in the tech industry. Worked effectively and seamlessly with developers and stakeholders from the USA, Norway, Russia, Ukraine, Romania, Australia, China, Hong Kong, India, and the Philippines.
 
-Solving real-world problems by crafting reliable, production-ready native iOS applications in Swift and SwiftUI with a clean, strategic, and organized structure and architecture. Driven to enhance business profitability and elevate user satisfaction through intuitive UI design and smooth user experiences (UX). Leveraging modern tools such as Claude Code, GitHub Copilot, and Codex with Agentic AI to improve efficiency and productivity.
+Solving real-world problems by building secure, reliable, and production-grade native iOS applications using Swift and SwiftUI. Focused on creating clean, strategic, and well-structured architectures to ensure maintainability and scalability. Driven to enhance business profitability and elevate user satisfaction through intuitive UI design and smooth user experiences (UX). Leveraging AI with Claude Code, GitHub Copilot, and Codex to improve efficiency and productivity.
 
 #### Primary Skill Set
 - Swift/SwiftUI/iOS
 
 #### Recent Explorations
 - AI/Claude Code/GitHub Copilot/Codex
+- Docker
 
 #### Occasional Explorations
 - Node.js/Express.js/Nest.js
@@ -32,5 +35,3 @@ Solving real-world problems by crafting reliable, production-ready native iOS ap
 - Kotlin/Android
 - UI/UX Prototyping/Figma
 - Graphic Design/Adobe/Affinity
-
-![](https://komarev.com/ghpvc/?username=cefjoeii&color=296faa&&label=Profile+Views)
