@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 Senior Software Engineer with 9+ years of experience collaborating with international clients in the tech industry. Worked effectively and seamlessly with developers and stakeholders from the USA, Norway, Russia, Ukraine, Romania, Australia, China, Hong Kong, India, and the Philippines.
 
-Solving real-world problems by building secure, reliable, and production-grade native iOS applications using Swift and SwiftUI. Focused on creating clean, strategic, and well-structured architectures to ensure maintainability and scalability. Driven to enhance business profitability and elevate user satisfaction through intuitive UI design and smooth user experiences (UX). Leveraging AI with Claude Code, GitHub Copilot, and Codex to improve efficiency and productivity.
+Solving real-world problems by building secure, reliable, and production-grade native iOS applications using Swift and SwiftUI. Focused on building clean, strategic, and well-structured architectures to ensure maintainability and scalability. Driven to enhance business profitability and elevate user satisfaction through intuitive UI design and smooth UX. Leveraging AI with Claude Code, GitHub Copilot, and Codex to improve efficiency and productivity.
 
 #### Primary Skill Set
 - Swift/SwiftUI/iOS
@@ -28,6 +28,7 @@ Solving real-world problems by building secure, reliable, and production-grade n
 #### Recent Explorations
 - AI/Claude Code/GitHub Copilot/Codex
 - Docker
+- Supabase
 
 #### Occasional Explorations
 - Node.js/Express.js/Nest.js
